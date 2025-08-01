@@ -81,6 +81,9 @@ graph TD
     A --> D["Final Report (User input: FINALIZE)"]
 ```
 
+## 🧠 Architecture Diagram
+![Architecture Diagram](flow_diagram.png)
+
 ## 📄 Example Task
 
 Evaluate Q2 business performance and generate an executive report with analysis and recommendations.

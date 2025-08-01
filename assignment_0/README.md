@@ -66,19 +66,19 @@ Coordinates the entire workflow and manages both teams.
 
 ```mermaid
 graph TD
-    A[Coordinator (UserProxyAgent)] -->|Start Task| B[AnalysisTeam (SoM Agent)]
-    B --> B1[DataCollector]
-    B1 --> B2[DataInterpreter]
-    B2 --> B3[DataPresenter]
-    B3 --> B4[InnerSupervisor (User input: APPROVE)]
+    A["Coordinator (UserProxyAgent)"] -->|Start Task| B["AnalysisTeam (SoM Agent)"]
+    B --> B1["DataCollector"]
+    B1 --> B2["DataInterpreter"]
+    B2 --> B3["DataPresenter"]
+    B3 --> B4["InnerSupervisor (User input: APPROVE)"]
 
-    A --> C[ReportTeam (SoM Agent)]
-    C --> C1[DraftWriter]
-    C1 --> C2[ContentEditor]
-    C2 --> C3[FormatSpecialist]
-    C3 --> C4[DraftSupervisor (User input: APPROVED)]
+    A --> C["ReportTeam (SoM Agent)"]
+    C --> C1["DraftWriter"]
+    C1 --> C2["ContentEditor"]
+    C2 --> C3["FormatSpecialist"]
+    C3 --> C4["DraftSupervisor (User input: APPROVED)"]
 
-    A --> D[Final Report (User input: FINALIZE)]
+    A --> D["Final Report (User input: FINALIZE)"]
 ```
 
 ## 📄 Example Task

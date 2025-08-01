@@ -1,6 +1,0 @@
-dotenv
-streamlit
-autogen-agentchat
-autogen-ext
-autogen-ext[openai,azure]
-autogen-ext[docker]

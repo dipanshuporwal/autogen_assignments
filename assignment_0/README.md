@@ -81,16 +81,24 @@ graph TD
     A --> D["Final Report (User input: FINALIZE)"]
 ```
 
+---
+
 ## 🧠 Architecture Diagram
 ![Architecture Diagram](flow_diagram.png)
+
+---
 
 ## 📄 Example Task
 
 Evaluate Q2 business performance and generate an executive report with analysis and recommendations.
 Data: Product A (1200 units, $12K), B (900 units, $8K), C (400 units, $4K).
 
+---
+
 ## ✅ Sample Output
 In Q2, Product A led in both units (1200) and revenue ($12K), followed by B and C. Product C underperformed. Recommend improving Product C’s market positioning and reviewing B’s pricing. Performance overall is stable.
+
+---
 
 ## 🛠️ Setup Instructions
 
@@ -124,6 +132,8 @@ APPROVED (to accept report draft)
 
 FINALIZE (to finish the session)
 
+---
+
 ##  📁 Project Structure
 .
 ├── your_script.py           # Main script with agent setup and orchestration
@@ -133,16 +143,22 @@ FINALIZE (to finish the session)
 ├── requirements.txt
 └── README.md
 
+---
+
 ## ⚠️ Termination Keywords
 Signal	Sender	Purpose
 APPROVE	InnerSupervisor	Ends the inner analysis team loop
 APPROVED	DraftSupervisor	Ends the report draft team loop
 FINALIZE	Coordinator	Completes the entire process
 
+---
+
 ##  👨‍💻 Author
 Dipanshu Porwal
 Senior AI Developer
 Multi-agent LLM Systems | AutoGen | Azure OpenAI | LangGraph
+
+---
 
 📬 Contact
 Have questions, ideas, or want to collaborate?

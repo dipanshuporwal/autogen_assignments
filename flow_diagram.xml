@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.7">
+  <diagram name="SoM_UserProxy_Architecture" id="0">
+    <mxGraphModel dx="1226" dy="1839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="outerTeam" value="Outer Team &#xa;(RoundRobinGroupChat)" style="rounded=1;strokeColor=#4B8BEA;fillColor=#E8F4FD;fontSize=14;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="80" y="-120" width="900" height="970" as="geometry" />
+        </mxCell>
+        <mxCell id="coord" value="Coordinator &#xa;(UserProxyAgent)" style="rounded=1;fillColor=#FDE8E8;strokeColor=#D9534F;fontSize=12;" parent="outerTeam" vertex="1">
+          <mxGeometry x="40" y="429.57142857142867" width="180" height="83.14285714285715" as="geometry" />
+        </mxCell>
+        <mxCell id="analysisTeam" value="AnalysisTeam&#xa;(SocietyOfMindAgent)" style="rounded=1;strokeColor=#4B8BEA;fillColor=#E8F4FD;fontSize=12;verticalAlign=top;" parent="outerTeam" vertex="1">
+          <mxGeometry x="480" y="80" width="280" height="408.28" as="geometry" />
+        </mxCell>
+        <mxCell id="innerContainer" value="Inner Team&#xa;(RoundRobinGroupChat)" style="rounded=1;strokeColor=#7EA000;fillColor=#F2F7E2;fontSize=12;verticalAlign=top;" parent="analysisTeam" vertex="1">
+          <mxGeometry x="20" y="38.276250000000005" width="240" height="331.7274999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="dc" value="DataCollector&#xa;(AssistantAgent)" style="rounded=1;fillColor=#FFFFFF;fontSize=11;" parent="innerContainer" vertex="1">
+          <mxGeometry x="50" y="45.77689397058823" width="140" height="51.035" as="geometry" />
+        </mxCell>
+        <mxCell id="di" value="DataInterpreter&#xa;(AssistantAgent)" style="rounded=1;fillColor=#FFFFFF;fontSize=11;" parent="innerContainer" vertex="1">
+          <mxGeometry x="50" y="119.3318382352941" width="140" height="51.035" as="geometry" />
+        </mxCell>
+        <mxCell id="dp" value="DataPresenter&#xa;(AssistantAgent)" style="rounded=1;fillColor=#FFFFFF;fontSize=11;" parent="innerContainer" vertex="1">
+          <mxGeometry x="50" y="192.88678249999998" width="140" height="51.035" as="geometry" />
+        </mxCell>
+        <mxCell id="innerSup" value="InnerSupervisor&#xa;(UserProxyAgent)" style="rounded=1;fillColor=#FDE8E8;strokeColor=#D9534F;fontSize=11;" parent="innerContainer" vertex="1">
+          <mxGeometry x="50" y="267.9337499999999" width="140" height="51.035" as="geometry" />
+        </mxCell>
+        <mxCell id="NfNLTb20OpMCPPVHoL3Y-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="innerContainer" target="di">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="98.3174264705882" as="sourcePoint" />
+            <mxPoint x="120" y="97.26670588235291" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NfNLTb20OpMCPPVHoL3Y-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="innerContainer" source="di" target="dp">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="182.37507352941174" as="sourcePoint" />
+            <mxPoint x="140" y="203.83979411764705" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NfNLTb20OpMCPPVHoL3Y-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="innerContainer" source="dp" target="innerSup">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="266.43272058823516" as="sourcePoint" />
+            <mxPoint x="180" y="276.93992647058815" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="reportTeam" value="ReportTeam&#xa;(SocietyOfMindAgent)" style="rounded=1;strokeColor=#4B8BEA;fillColor=#E8F4FD;fontSize=12;verticalAlign=top;" parent="outerTeam" vertex="1">
+          <mxGeometry x="490" y="512.71" width="280" height="411.15" as="geometry" />
+        </mxCell>
+        <mxCell id="reportContainer" value="Draft Team&#xa;(RoundRobinGroupChat)" style="rounded=1;strokeColor=#7EA000;fillColor=#F2F7E2;fontSize=12;verticalAlign=top;" parent="reportTeam" vertex="1">
+          <mxGeometry x="20" y="38.545312499999994" width="240" height="334.05937499999993" as="geometry" />
+        </mxCell>
+        <mxCell id="dw" value="DraftWriter&#xa;(AssistantAgent)" style="rounded=1;fillColor=#FFFFFF;fontSize=11;" parent="reportContainer" vertex="1">
+          <mxGeometry x="50" y="44.59163602941176" width="140" height="51.39374999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ce" value="ContentEditor&#xa;(AssistantAgent)" style="rounded=1;fillColor=#FFFFFF;fontSize=11;" parent="reportContainer" vertex="1">
+          <mxGeometry x="50" y="118.66363400735291" width="140" height="51.39374999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="NfNLTb20OpMCPPVHoL3Y-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="reportContainer" source="fs">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="192.72656249999991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NfNLTb20OpMCPPVHoL3Y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="reportContainer" source="fs">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="266.79402573529404" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fs" value="FormatSpecialist&#xa;(AssistantAgent)" style="rounded=1;fillColor=#FFFFFF;fontSize=11;" parent="reportContainer" vertex="1">
+          <mxGeometry x="50" y="192.72505091911762" width="140" height="51.39374999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="ds" value="DraftSupervisor&#xa;(UserProxyAgent)" style="rounded=1;fillColor=#FDE8E8;strokeColor=#D9534F;fontSize=11;" parent="reportContainer" vertex="1">
+          <mxGeometry x="50" y="266.7970488970588" width="140" height="51.39374999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="NfNLTb20OpMCPPVHoL3Y-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="reportContainer" target="ce">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="97.49696691176466" as="sourcePoint" />
+            <mxPoint x="110" y="119.11257352941172" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge1" style="edgeStyle=orthogonalEdgeStyle;strokeColor=light-dark(#666666,#FFFFFF);" parent="outerTeam" source="coord" target="analysisTeam" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge2" style="edgeStyle=orthogonalEdgeStyle;strokeColor=light-dark(#666666,#FFFFFF);fillColor=#f5f5f5;" parent="outerTeam" source="coord" target="reportTeam" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

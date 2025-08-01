@@ -103,67 +103,61 @@ In Q2, Product A led in both units (1200) and revenue ($12K), followed by B and 
 ## 🛠️ Setup Instructions
 
 1. Clone the Repository
-git clone https://github.com/your-org/q2-report-agent.git
+- git clone https://github.com/your-org/q2-report-agent.git
 
 2. Install Dependencies
-pip install -r requirements.txt
-<details> <summary>📦 Sample <code>requirements.txt</code></summary>
-dotenv
-streamlit
-autogen-agentchat
-autogen-ext
-autogen-ext[openai,azure]
-autogen-ext[docker]
+- pip install -r requirements.txt
 
-</details>
 3. Create a .env File
-AZURE_ENDPOINT=https://<your-endpoint>.openai.azure.com/
-API_KEY=<your-api-key>
+- AZURE_ENDPOINT=https://<your-endpoint>.openai.azure.com/
+- API_KEY=<your-api-key>
 
-▶️ Running the System
-streamlit run streamlit_app.py 
+---
 
-You’ll see agent conversations streamed in the terminal.
-You’ll be asked for inputs like:
+## ▶️ Running the System
+- streamlit run streamlit_app.py 
 
-APPROVE (to accept insights)
+- You’ll see agent conversations streamed in the terminal.
+- You’ll be asked for inputs like:
 
-APPROVED (to accept report draft)
+- APPROVE (to accept insights)
 
-FINALIZE (to finish the session)
+- APPROVED (to accept report draft)
+
+- FINALIZE (to finish the session)
 
 ---
 
 ##  📁 Project Structure
-.
-├── your_script.py           # Main script with agent setup and orchestration
-├── config/
-│   └── constants.py         # Model config
-├── .env                     # Azure OpenAI credentials (not committed)
-├── requirements.txt
-└── README.md
+- .
+- ├── your_script.py           # Main script with agent setup and orchestration
+- ├── config/
+- │   └── constants.py         # Model config
+- ├── .env                     # Azure OpenAI credentials (not committed)
+- ├── requirements.txt
+- └── README.md
 
 ---
 
 ## ⚠️ Termination Keywords
-Signal	Sender	Purpose
-APPROVE	InnerSupervisor	Ends the inner analysis team loop
-APPROVED	DraftSupervisor	Ends the report draft team loop
-FINALIZE	Coordinator	Completes the entire process
+- Signal	Sender	Purpose
+- APPROVE	InnerSupervisor	Ends the inner analysis team loop
+- APPROVED	DraftSupervisor	Ends the report draft team loop
+- FINALIZE	Coordinator	Completes the entire process
 
 ---
 
 ##  👨‍💻 Author
-Dipanshu Porwal
-Senior AI Developer
-Multi-agent LLM Systems | AutoGen | Azure OpenAI | LangGraph
+- Dipanshu Porwal
+- Senior AI Developer
+- Multi-agent LLM Systems | AutoGen | Azure OpenAI | LangGraph
 
 ---
 
 📬 Contact
-Have questions, ideas, or want to collaborate?
-Reach out and connect via Linkedin or email.
-Linkedin: https://www.linkedin.com/in/dipanshu-porwal-08317511b/
-E-mail: dipanshunitj@gmail.com
+- Have questions, ideas, or want to collaborate?
+- Reach out and connect via Linkedin or email.
+- Linkedin: https://www.linkedin.com/in/dipanshu-porwal-08317511b/
+- E-mail: dipanshunitj@gmail.com
 
 

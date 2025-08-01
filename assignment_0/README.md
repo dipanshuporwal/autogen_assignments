@@ -1,4 +1,4 @@
-# 📊 Q2 Business Analysis & Executive Report Generator
+# 📊 Business Analysis & Executive Report Generator
 
 This project implements a **multi-level AI agent system** using Microsoft [AutoGen](https://github.com/microsoft/autogen) to simulate enterprise workflows for data analysis, report generation, and human-in-the-loop supervision.
 

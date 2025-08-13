@@ -115,7 +115,7 @@ The backend pipeline is composed of modular, asynchronous agents:
 
 ## 🧠 System Architecture
 
-![alt text](image.png)
+![alt text](architecture_diagram.png)
 
 
 ---

@@ -123,31 +123,44 @@ The backend pipeline is composed of modular, asynchronous agents:
 
 ## ⚙️ Setup Instructions
 
-### 1️⃣ Clone the repository
+### 1️⃣ Install Docker Desktop (Required)
+
+Since this project uses **Docker integration**, you must have Docker Desktop installed and running before starting the application.
+
+- **Download & Install Docker Desktop**:  
+  - [Docker Desktop for Windows](https://www.docker.com/products/docker-desktop/)  
+  - [Docker Desktop for macOS](https://www.docker.com/products/docker-desktop/)  
+  - For Linux, follow: [Install Docker Engine on Linux](https://docs.docker.com/engine/install/)
+
+- **After installation**, **open Docker Desktop** and ensure it is running in the background before proceeding.
+
+---
+
+### 2️⃣ Clone the repository
 
 - git clone https://github.com/dipanshuporwal/autogen_assignments.git
 - cd autogen_assignments
 
 
-### 2️⃣ Create a virtual environment (Python 3.9+)
+### 3️⃣ Create a virtual environment (Python 3.9+)
 
 - python3 -m venv .venv
 - source .venv/bin/activate    # For macOS/Linux
 - .venv\Scripts\activate       # For Windows
 
 
-### 3️⃣ Install dependencies
+### 4️⃣ Install dependencies
 
 pip install -r requirements.txt
 
 
-### 4️⃣ Run the MongoDB server
+### 5️⃣ Run the MongoDB server
 
 - cd assignment_1_ATS_resume_scoring_system/mongodb
 - mongod --port 27020 --dbpath ~/mongo-data
 
 
-### 5️⃣ Start the Streamlit app
+### 6️⃣ Start the Streamlit app
 
 - cd ats-resume-assignment_1_ATS_resume_scoring_system-app
 - streamlit run streamlit_app.py

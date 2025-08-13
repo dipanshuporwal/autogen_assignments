@@ -37,7 +37,7 @@ The backend pipeline is composed of modular, asynchronous agents:
 ---
 
 ## 🏗️ Project Structure
-<pre> ```bash
+<pre>
 ├── agents/
 │   ├── resume_processor.py                # Agent to parse and extract key information from resumes
 │   ├── jd_analyzer.py                     # Agent to analyze job descriptions and extract structured data
@@ -107,7 +107,7 @@ The backend pipeline is composed of modular, asynchronous agents:
 ├── .gitignore                             # Files and folders to exclude from Git tracking
 ├── .env.example                           # Example environment variable file for setup
 └── README.md                              # Project documentation (you're reading it!)
-``` </pre>
+</pre>
 
 
 ---

@@ -1,0 +1,96 @@
+{
+  "name": "Nihal Raj Patil",
+  "email": "nihal.patil1440@gmail.com",
+  "phone": "+91 9391101440",
+  "summary": "Data Scientist with 4.7 years of experience specializing in complex analytics, machine learning solutions and NLP. Proficient in Python and frameworks like PyTorch and TensorFlow. Skilled in delivering impactful projects like chatbots and predictive models. Excelling in data-driven business solutions and innovation.",
+  "skills": [
+    "Python",
+    "Pandas",
+    "NumPy",
+    "Scikit-learn",
+    "Flask",
+    "TensorFlow",
+    "PyTorch",
+    "Keras",
+    "Transformers",
+    "AWS",
+    "Power BI",
+    "Seaborn",
+    "RDBMS",
+    "NoSQL",
+    "FastAPI",
+    "Linux",
+    "Windows"
+  ],
+  "languages": [
+    "English",
+    "Marathi",
+    "Hindi"
+  ],
+  "experience": [
+    {
+      "job_title": "AI/ML Engineer",
+      "company": "QulabsAI",
+      "start_date": "2022-10",
+      "end_date": "2023-11",
+      "duration_in_months": 13,
+      "description": "Developed conversational AI frameworks, document management systems, and healthcare compliance solutions.",
+      "is_career_gap": null
+    },
+    {
+      "job_title": "Associate ML Developer",
+      "company": "Mphasis",
+      "start_date": "2019-03",
+      "end_date": "2022-09",
+      "duration_in_months": 42,
+      "description": "Built and trained supervised and unsupervised machine learning algorithms, communicated effectively with clients.",
+      "is_career_gap": null
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "Dr. D.Y. Patil Institute of Management, Pune",
+      "graduation_year": "2020",
+      "grade": null
+    },
+    {
+      "degree": "B.Tech",
+      "institution": "Dr. Babasaheb Ambedkar Marathwada University, Aurangabad",
+      "graduation_year": "2018",
+      "grade": null
+    }
+  ],
+  "certifications": null,
+  "projects": [
+    {
+      "title": "Revolutionizing Healthcare Compliance",
+      "description": "System leveraging Transformers and Chatbot capabilities for risk assessment.",
+      "technologies_used": [
+        "Hugging Face",
+        "Transformers",
+        "BERT",
+        "TensorFlow",
+        "PyTorch",
+        "AWS"
+      ]
+    },
+    {
+      "title": "Enhancing healthcare claim prognostication using advanced ML",
+      "description": "Machine learning ensemble used for healthcare claim insights from biomarker analysis.",
+      "technologies_used": null
+    },
+    {
+      "title": "Post-Quantum Cryptography Using ML",
+      "description": "Utilized ML for secure communication in quantum computing.",
+      "technologies_used": null
+    },
+    {
+      "title": "Quantum Machine Learning for Portfolio Optimization",
+      "description": "Applied quantum algorithms for advancing financial decisions.",
+      "technologies_used": null
+    }
+  ],
+  "total_years_experience": 4.7,
+  "has_career_gap": false
+}

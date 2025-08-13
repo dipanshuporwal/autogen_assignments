@@ -1,0 +1,21 @@
+{
+  "total_score": 90.0,
+  "score_breakdown": {
+    "skills": {
+      "skills_match": 28.0,
+      "skills_missing": 2.0
+    },
+    "experience": 23.0,
+    "education": 14.0,
+    "certifications": 5.0,
+    "communication": 10.0,
+    "presentation": 10.0
+  },
+  "feedback": [
+    "Excellent alignment of required skills such as Python, ML frameworks, and statistical techniques.",
+    "Directly relevant and extensive experience in ML and AI domains.",
+    "Education matches the preferred qualifications for the role.",
+    "Lack of certifications in stated areas can be an area of improvement.",
+    "Articulate resume content and well-structured flow."
+  ]
+}

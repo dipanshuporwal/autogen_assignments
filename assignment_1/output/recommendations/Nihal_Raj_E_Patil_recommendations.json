@@ -1,0 +1,25 @@
+{
+  "overall_score": 85.0,
+  "recommendations": [
+    {
+      "section": "Summary",
+      "suggestion": "Include explicit mention of experience with credit analytics or financial institutions.",
+      "reason": "The job description emphasizes domain knowledge in financial institutions and credit analytics."
+    },
+    {
+      "section": "Skills",
+      "suggestion": "Highlight statistical concepts as a separate skill category and include models like Hold-out Validation or Bootstrapping.",
+      "reason": "Statistical concepts are explicitly required and demonstrating advanced techniques shows expertise."
+    },
+    {
+      "section": "Experience",
+      "suggestion": "Mention application of machine learning models in business decision contexts.",
+      "reason": "The job requires data science applications transforming insights into business decisions."
+    },
+    {
+      "section": "Projects",
+      "suggestion": "Add details on how your projects provided measurable business outcomes.",
+      "reason": "Quantifying impact aligns with the job's requirements for driving measurable results."
+    }
+  ]
+}

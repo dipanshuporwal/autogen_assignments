@@ -1,0 +1,60 @@
+{
+  "job_title": "Data Scientist - Generative AI",
+  "responsibilities": [
+    "Design, develop, and maintain generative AI solutions to support enterprise use cases.",
+    "Collaborate with other data scientists, engineers, and product teams to integrate generative AI solutions into business applications.",
+    "Monitor the performance of generative AI tools, contribute to documentation, code reviews, and knowledge sharing with other teams and stakeholders.",
+    "Collaborate with the AI literacy team to provide generative AI training and guidance to other staff."
+  ],
+  "required_skills": [
+    "Hands-on experience developing and deploying generative AI tools in production environments.",
+    "Expert-level proficiency in Python.",
+    "Solid understanding of transformer architectures, LLMs, and generative model training or fine-tuning.",
+    "Expertise in evaluating performance, security, and bias for generative AI tools.",
+    "Strong foundation in prompt engineering best practices, retrieval-augmented generation (RAG), and vector databases.",
+    "Proficiency with general database concepts and SQL.",
+    "Experience using containers with continuous integration and deployment (CICD) technologies."
+  ],
+  "preferred_skills": [
+    "Experience working in an Agile environment."
+  ],
+  "education_requirements": "Bachelor\u2019s degree in computer science, data science, quantitative social science, or a related field.",
+  "experience_required": "Minimum 5 years of related experience in machine learning or data science, with at least 1 year working directly on generative AI projects.",
+  "certifications": null,
+  "domain_keywords": [
+    "Generative AI",
+    "Transformer Architectures",
+    "LLMs",
+    "Prompt Engineering",
+    "Retrieval-Augmented Generation",
+    "Python",
+    "SQL",
+    "CICD"
+  ],
+  "matching_criteria": [
+    {
+      "skill": "Generative AI development experience",
+      "weight": 10
+    },
+    {
+      "skill": "Proficiency in Python",
+      "weight": 9
+    },
+    {
+      "skill": "Experience with transformer architectures",
+      "weight": 8
+    },
+    {
+      "skill": "Experience with generative model training",
+      "weight": 8
+    },
+    {
+      "skill": "Prompt engineering expertise",
+      "weight": 7
+    },
+    {
+      "skill": "Proficiency in SQL",
+      "weight": 6
+    }
+  ]
+}

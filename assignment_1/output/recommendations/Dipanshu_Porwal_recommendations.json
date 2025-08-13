@@ -1,0 +1,30 @@
+{
+  "overall_score": 88.0,
+  "recommendations": [
+    {
+      "section": "Summary",
+      "suggestion": "Include specific mention of generative model training and fine-tuning experience.",
+      "reason": "While the summary mentions expertise in LLMs and generative AI frameworks, specifying hands-on experience with training generative models aligns better with the job requirements."
+    },
+    {
+      "section": "Skills",
+      "suggestion": "Add experience with CI/CD tools and containerization if applicable.",
+      "reason": "The job requires familiarity with deploying models using modern development workflows, which includes containerization and CI/CD technologies."
+    },
+    {
+      "section": "Experience",
+      "suggestion": "Highlight specific projects or tasks demonstrating proficiency with transformer architectures and RAG techniques.",
+      "reason": "Job description emphasizes practical experience and knowledge with transformer models and retrieval-augmented generation methodologies."
+    },
+    {
+      "section": "Certifications",
+      "suggestion": "Include certifications or training related to SQL if applicable.",
+      "reason": "Proficiency in SQL is required and emphasizing qualifications or training in SQL would strengthen alignment with the role."
+    },
+    {
+      "section": "Education",
+      "suggestion": "Expand briefly on coursework or projects related to data science and AI during your education.",
+      "reason": "The job requires a solid foundation in AI concepts, which can be highlighted through relevant academic projects or coursework."
+    }
+  ]
+}

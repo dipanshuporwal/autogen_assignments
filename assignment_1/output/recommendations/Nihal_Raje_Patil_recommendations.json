@@ -1,0 +1,25 @@
+{
+  "overall_score": 65.0,
+  "recommendations": [
+    {
+      "section": "Summary",
+      "suggestion": "Include explicit mention of experience with LLMs and RAG pipelines.",
+      "reason": "The job emphasizes building and optimizing workflows utilizing LLMs and enhancing RAG pipelines, which should be highlighted in the summary."
+    },
+    {
+      "section": "Skills",
+      "suggestion": "Add skills such as cloud deployment (Azure preferred), experience with Docker, and MLOps practices.",
+      "reason": "These skills align with the technical requirements stated in the job description."
+    },
+    {
+      "section": "Experience",
+      "suggestion": "Expand on your responsibilities regarding deploying machine learning models, particularly in scalable cloud-based environments.",
+      "reason": "Cloud deployment expertise is crucial for the role, thus past experiences should reflect this if applicable."
+    },
+    {
+      "section": "Education",
+      "suggestion": "Highlight transferable skills or courses related to AI or advanced model implementation from your MBA.",
+      "reason": "The expected education is B.Tech/MCA, and transferable knowledge from an MBA could strengthen the resume alignment."
+    }
+  ]
+}

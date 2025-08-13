@@ -1,0 +1,30 @@
+{
+  "overall_score": 85.0,
+  "recommendations": [
+    {
+      "section": "Summary",
+      "suggestion": "Focus on restructuring the summary to specify relevant accomplishments in credit and risk analysis, aligning more closely with the job's field.",
+      "reason": "The job explicitly mentions responsibilities related to credit and risk analysis, and the summary currently doesn\u2019t strongly highlight skills or experience in this domain."
+    },
+    {
+      "section": "Skills",
+      "suggestion": "Add skills related to credit and risk analysis, and emphasize statistical concepts and business problem-solving through data.",
+      "reason": "While the current skills list is robust, aligning it with the job's domain-specific keywords like 'Credit analysis' and 'Business insights' would strengthen the resume."
+    },
+    {
+      "section": "Experience",
+      "suggestion": "Reframe descriptions to highlight contributions to extracting actionable insights from complex data and building machine learning pipelines.",
+      "reason": "The job emphasizes transforming data into actionable insights and building algorithms, which can be better represented with aligned language in the resume's experience section."
+    },
+    {
+      "section": "Projects",
+      "suggestion": "Include project outcomes, especially those related to financial and risk analysis, reflecting application of machine learning.",
+      "reason": "While projects are technical and impressive, outcomes relevant to the job's field such as risk assessment and financial decision-making would demonstrate alignment."
+    },
+    {
+      "section": "Certifications",
+      "suggestion": "Clearly list certifications or equivalent learning in machine learning or analytics if available.",
+      "reason": "Certifications in data science or machine learning could underline critical expertise and meet job expectations more evidently."
+    }
+  ]
+}

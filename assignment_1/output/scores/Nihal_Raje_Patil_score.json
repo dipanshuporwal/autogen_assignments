@@ -1,0 +1,25 @@
+{
+  "total_score": 70.0,
+  "score_breakdown": {
+    "skills": {
+      "Python": 5.0,
+      "PyTorch": 4.0,
+      "TensorFlow": 4.0,
+      "RAG pipelines expertise": 0.0,
+      "Knowledge graph integration": 0.0
+    },
+    "experience": 20.0,
+    "education": 10.0,
+    "certifications": 0.0,
+    "communication": 7.0,
+    "presentation": 8.0
+  },
+  "feedback": [
+    "The resume demonstrates strong skills in Python and Machine Learning frameworks such as PyTorch and TensorFlow.",
+    "Experience in AI/ML fits well, but lacks direct exposure to RAG pipelines or knowledge graph integration.",
+    "Education aligns well, holding a Bachelor's in Technology as required.",
+    "Certification section is empty; adding industry-relevant ones could improve score.",
+    "Language and communication are strong, reflecting professional presentation and relevancy.",
+    "Resume formatting is polished, aiding readability and professional appearance."
+  ]
+}

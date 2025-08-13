@@ -1,0 +1,135 @@
+{
+  "name": "Nihal Raj E Patil",
+  "email": "nihal.patil1440@gmail.com",
+  "phone": "+91 9391101440",
+  "summary": "Immediate joiner, Data Scientist with 4.7 years of expertise in Statistical analytics, Machine Learning, and NLP. Specialized in analytics to transform complex business requirements into actionable data-driven solutions. Developed scalable chatbots and predictive models. Skilled in Python, pytorch, and TensorFlow. Results-driven, consistently delivering projects that positively impact business analytics and growth. Open to new challenges that push boundaries.",
+  "skills": [
+    "Python",
+    "Linux",
+    "Windows",
+    "RDBMS",
+    "NoSQL",
+    "DMS",
+    "Seaborn",
+    "Power BI",
+    "AWS-EC2",
+    "S3",
+    "Lambda",
+    "Flask",
+    "FastAPI",
+    "VS Code",
+    "Google Colab",
+    "PyCharm",
+    "Jupyter Notebook",
+    "Pandas",
+    "Numpy",
+    "Scikit-learn",
+    "flask",
+    "Regex",
+    "Matplotlib",
+    "Seaborn",
+    "Linear Regression",
+    "Ridge Regression",
+    "Lasso Regression",
+    "Logistic Regression",
+    "Naive Bayes Classifier",
+    "K-Nearest Neighbors Classifier",
+    "Support Vector Machine",
+    "Decision Tree",
+    "Random Forest",
+    "Gradient Descent",
+    "Ada-Boost",
+    "Gradient Boosting",
+    "XG-Boost",
+    "LightGBM",
+    "CatBoost",
+    "K-means Clustering",
+    "DBSCAN",
+    "Principal Component Analysis",
+    "NLTK",
+    "TF-IDF",
+    "Word2Vec",
+    "Bag of Words",
+    "Count Vectorizer",
+    "Unigrams",
+    "bigrams",
+    "RE",
+    "ANN",
+    "CNN",
+    "Tensorflow",
+    "Keras",
+    "PyTorch",
+    "Transformers"
+  ],
+  "languages": [
+    "English",
+    "Marathi",
+    "Hindi"
+  ],
+  "experience": [
+    {
+      "job_title": "AI/ML Engineer",
+      "company": "QulabsAI",
+      "start_date": "2022-10",
+      "end_date": "2023-11",
+      "duration_in_months": 13,
+      "description": "Worked on LLMs, developed conversational AI chatbots and frameworks, and implemented machine learning solutions for healthcare compliance, driving risk assessment and efficiency.",
+      "is_career_gap": false
+    },
+    {
+      "job_title": "Associate ML Developer",
+      "company": "Mphasis",
+      "start_date": "2019-03",
+      "end_date": "2022-09",
+      "duration_in_months": 42,
+      "description": "Engaged in data analytics and model training, focusing on vast datasets and delivering supervised and unsupervised ML algorithms with high accuracy.",
+      "is_career_gap": false
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "Dr. D.Y. Patil Institute of Management",
+      "graduation_year": "2020",
+      "grade": null
+    },
+    {
+      "degree": "B.Tech",
+      "institution": "Dr. Babasaheb Ambedkar Marathwada University",
+      "graduation_year": "2018",
+      "grade": null
+    }
+  ],
+  "certifications": null,
+  "projects": [
+    {
+      "title": "Revolutionizing Healthcare Compliance",
+      "description": "Developed a scalable system leveraging pretrained models like Transformers and BERT, implementing on AWS to enhance real-time healthcare risk assessment capabilities and utilizing chatbot interfaces.",
+      "technologies_used": [
+        "Hugging Face",
+        "TensorFlow",
+        "PyTorch",
+        "AWS",
+        "Transformers",
+        "BERT"
+      ]
+    },
+    {
+      "title": "Enhancing healthcare claim prognostication using advanced machine learning and biomarker analysis",
+      "description": "Utilized machine learning ensembles and advanced analytics for healthcare claim prognosis, boosting predictive reliability and operational efficiency.",
+      "technologies_used": null
+    },
+    {
+      "title": "Post-Quantum Cryptography Using Machine Learning",
+      "description": "Researched and implemented machine learning techniques to enhance communication security adapted for the quantum computing paradigm.",
+      "technologies_used": null
+    },
+    {
+      "title": "Quantum Machine Learning for Optimal Portfolio Optimization",
+      "description": "Explored quantum algorithms for improving financial decision-making via portfolio optimization.",
+      "technologies_used": null
+    }
+  ],
+  "total_years_experience": 4.7,
+  "has_career_gap": false
+}

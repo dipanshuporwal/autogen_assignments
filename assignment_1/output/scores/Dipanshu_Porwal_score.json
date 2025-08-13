@@ -1,0 +1,26 @@
+{
+  "total_score": 84.0,
+  "score_breakdown": {
+    "skills": {
+      "Generative AI development experience": 10.0,
+      "Proficiency in Python": 9.0,
+      "Experience with transformer architectures": 8.0,
+      "Experience with generative model training": 8.0,
+      "Prompt engineering expertise": 7.0,
+      "Proficiency in SQL": 6.0
+    },
+    "experience": 21.0,
+    "education": 14.0,
+    "certifications": 9.0,
+    "communication": 9.0,
+    "presentation": 8.0
+  },
+  "feedback": [
+    "Strong match for skills related to generative AI, Python, and prompt engineering.",
+    "Extensive experience aligns well with the role requirements.",
+    "Qualification meets the education criteria.",
+    "Relevant certifications enhance the candidate's profile.",
+    "Effective communication and concise resume formatting.",
+    "Adequate resume presentation with clear sections."
+  ]
+}

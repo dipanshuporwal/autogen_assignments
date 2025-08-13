@@ -1,0 +1,140 @@
+{
+  "name": "Dipanshu Porwal",
+  "email": "dipanshunitj@gmail.com",
+  "phone": "8727930718",
+  "summary": "Sr. AI and Python developer with 8 years of experience in the Manufacturing, Healthcare and Banking domains. Proven expertise in designing, modelling, implementing, testing, and deploying scalable BOTs and Voice Assistants leveraging Agentic AI architectures, Gen AI frameworks, LLMs, prompt engineering, and NLP techniques. Seeking a similar role and position in a progressive organization where I can continue to drive innovation and AI-powered transformation.",
+  "skills": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "Node.js",
+    "React.js",
+    "MySQL",
+    "MongoDB",
+    "Qdrant",
+    "Weaviate",
+    "NumPy",
+    "Pandas",
+    "TensorFlow",
+    "Scikit-learn",
+    "OpenAI APIs",
+    "LLMs",
+    "LangChain",
+    "LangGraph",
+    "LangSmith",
+    "LangServe",
+    "NLP",
+    "Avaamo",
+    "Kore.ai",
+    "IBM Watson",
+    "Google Dialogflow",
+    "Amelia",
+    "CAIP",
+    "Microsoft Bot Framework",
+    "RASA",
+    "Data Structures and Algorithms",
+    "Machine Learning"
+  ],
+  "languages": null,
+  "experience": [
+    {
+      "job_title": "Senior AI Developer",
+      "company": "Wurth IT",
+      "start_date": "2023-11",
+      "end_date": "Present",
+      "duration_in_months": null,
+      "description": "Developed LLM-based BOT frameworks, intelligent voice assistants, and managed cross-functional teams.",
+      "is_career_gap": false
+    },
+    {
+      "job_title": "AI Engineering Senior Analyst",
+      "company": "Accenture",
+      "start_date": "2021-11",
+      "end_date": "2023-10",
+      "duration_in_months": null,
+      "description": "Developed API bots using LLMs, task automation bots, conversational bots, and analytics dashboards.",
+      "is_career_gap": false
+    },
+    {
+      "job_title": "Senior Software Engineer",
+      "company": "Wipro Digital",
+      "start_date": "2021-06",
+      "end_date": "2021-10",
+      "duration_in_months": null,
+      "description": "Developed User Assist BOTs and managed customer feedback integration.",
+      "is_career_gap": false
+    },
+    {
+      "job_title": "Project Engineer",
+      "company": "Wipro Digital",
+      "start_date": "2017-08",
+      "end_date": "2021-05",
+      "duration_in_months": null,
+      "description": "Created bots for query assistance, auto-functionality tasks, and document assistance.",
+      "is_career_gap": false
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Computer Science and Engineering",
+      "institution": "NIT Jalandhar",
+      "graduation_year": "2017",
+      "grade": "Cumulative GPA: 7.41"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified in AI Agent Fundamentals",
+      "issuer": "HuggingFace",
+      "date_issued": null
+    },
+    {
+      "name": "Certified in Building Al Agents & Agentic Al System via Microsoft Autogen",
+      "issuer": "Udemy",
+      "date_issued": null
+    },
+    {
+      "name": "Certified in Agentic AI Bootcamp \u2013 LangGraph & LangChain",
+      "issuer": "Udemy",
+      "date_issued": null
+    },
+    {
+      "name": "Certified in Machine Learning A-Z\u2122 \u2013 Hands-On Python for Data Science",
+      "issuer": "Udemy",
+      "date_issued": null
+    },
+    {
+      "name": "Certified in Machine Learning A-Z\u2122 \u2013 Hands-On Artificial Neural Networks",
+      "issuer": "Udemy",
+      "date_issued": null
+    },
+    {
+      "name": "Certified in IBM Watson \u2013 Versions V3.1 & V4",
+      "issuer": "IBM",
+      "date_issued": null
+    },
+    {
+      "name": "Certified in Microsoft Azure Fundamentals",
+      "issuer": null,
+      "date_issued": null
+    },
+    {
+      "name": "Trained in Kore.ai Virtual Assistant Platform (Basic)",
+      "issuer": null,
+      "date_issued": null
+    },
+    {
+      "name": "Certified in CAIP \u2013 Accenture's Conversational AI Development Tool",
+      "issuer": null,
+      "date_issued": null
+    },
+    {
+      "name": "Certified in Amelia Conversational AI V5 Enablement",
+      "issuer": null,
+      "date_issued": null
+    }
+  ],
+  "projects": null,
+  "total_years_experience": 8.0,
+  "has_career_gap": false
+}

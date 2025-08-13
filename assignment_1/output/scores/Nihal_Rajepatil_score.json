@@ -1,0 +1,26 @@
+{
+  "total_score": 85.0,
+  "score_breakdown": {
+    "skills": {
+      "Python": 5.0,
+      "FastAPI": 4.5,
+      "TensorFlow": 4.5,
+      "PyTorch": 4.5,
+      "Statistical Concepts": 4.0,
+      "Machine Learning Techniques": 4.0,
+      "Real-World Data Analysis": 4.5
+    },
+    "experience": 22.5,
+    "education": 14.0,
+    "certifications": 0.0,
+    "communication": 8.0,
+    "presentation": 6.0
+  },
+  "feedback": [
+    "Skills well aligned with job requirements, particularly expertise in Python, TensorFlow, PyTorch, and statistical analysis.",
+    "Relevant professional experience in AI/ML engineering and machine learning implementation.",
+    "Education meets the required criteria, holding advanced degrees in technical fields.",
+    "Excellent communication skills demonstrated in projects and roles.",
+    "Resume presentation could improve with consistent formatting and highlighting achievements."
+  ]
+}

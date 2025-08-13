@@ -1,0 +1,32 @@
+Below is the structured resume data:
+
+{{ resume_data }}
+
+And the job description:
+
+{{ job_description }}
+
+Here is additional retrieved context to assist in accurate and professional scoring:
+
+1. Resume Skill Context:
+{% for item in rag_context.resume_context %}
+- {{ item }}
+{% endfor %}
+
+2. Job Description Context:
+{% for item in rag_context.jd_context %}
+- {{ item }}
+{% endfor %}
+
+3. Job Template Requirements:
+Required Skills: {{ rag_context.job_template.required_skills | join(", ") if rag_context.job_template.required_skills else "N/A" }}
+Preferred Keywords: {{ rag_context.job_template.preferred_keywords | join(", ") if rag_context.job_template.preferred_keywords else "N/A" }}
+
+4. Common Resume Scoring Suggestions:
+{% for tip in rag_context.feedback_suggestions %}
+- {{ tip }}
+{% endfor %}
+
+Evaluate and return a structured score breakdown using the rubric defined in the system prompt.
+Return JSON formatted as per the `ATSScoringData` schema.
+

@@ -1,0 +1,108 @@
+{
+  "name": "Nihal Raje Patil",
+  "email": "nihal.patil1440@gmail.com",
+  "phone": "+91 9391101440",
+  "summary": "Immediate joiner, Data Scientist with 4.7 years of expertise in Statistical analytics, Machine Learning, and NLP. Specialized in analytics to transform complex business requirements into actionable data-driven solutions.",
+  "skills": [
+    "Python",
+    "Pytorch",
+    "TensorFlow",
+    "Statistical Analytics",
+    "Machine Learning",
+    "NLP",
+    "Linear Regression",
+    "Ridge & Lasso Regression",
+    "Logistic Regression",
+    "Na\u00efve Bayes Classifier",
+    "K-Nearest Neighbor\u2019s Classifier",
+    "Support Vector Machine",
+    "Decision Tree",
+    "Random Forest",
+    "Gradient Descent",
+    "Ada-Boost",
+    "Gradient Boosting",
+    "XG-Boost",
+    "LightGBM",
+    "CatBoost",
+    "K-means Clustering",
+    "DBSCAN",
+    "Principal Component Analysis",
+    "NLTK",
+    "TF-IDF",
+    "Word2Vec",
+    "Bag of Words",
+    "Count Vectorizer",
+    "Unigrams",
+    "Bigrams",
+    "Seaborn",
+    "Power BI",
+    "AWS-EC2",
+    "S3",
+    "Lambda",
+    "Flask",
+    "FastAPI"
+  ],
+  "languages": [
+    "English",
+    "Marathi",
+    "Hindi"
+  ],
+  "experience": [
+    {
+      "job_title": "AI/ML Engineer",
+      "company": "QulabsAI",
+      "start_date": "2022-10",
+      "end_date": "2023-11",
+      "duration_in_months": 13,
+      "description": "Developed conversational AI and business-supporting tools including a chatbot and real-time document matching system.",
+      "is_career_gap": false
+    },
+    {
+      "job_title": "Associate ML Developer",
+      "company": "Mphasis",
+      "start_date": "2019-03",
+      "end_date": "2022-09",
+      "duration_in_months": 42,
+      "description": "Worked on vast datasets to train and build ML algorithms, achieving client-desired accuracies.",
+      "is_career_gap": false
+    }
+  ],
+  "education": [
+    {
+      "degree": "MBA",
+      "institution": "Dr. D.Y. Patil Institute of Management",
+      "graduation_year": "2020",
+      "grade": null
+    },
+    {
+      "degree": "B.Tech",
+      "institution": "Dr. Babasaheb Ambedkar Marathwada University",
+      "graduation_year": "2018",
+      "grade": null
+    }
+  ],
+  "certifications": null,
+  "projects": [
+    {
+      "title": "Revolutionizing Healthcare Compliance",
+      "description": "Developed a system with Hugging Face models and AWS for risk assessment in healthcare.",
+      "technologies_used": [
+        "Transformers",
+        "BERT",
+        "TensorFlow",
+        "PyTorch",
+        "AWS"
+      ]
+    },
+    {
+      "title": "Enhancing Healthcare Claim Prognostication",
+      "description": "Enhanced claim prognosis with multifaceted machine learning ensembles and biomarkers.",
+      "technologies_used": [
+        "Machine Learning",
+        "Data Analysis"
+      ]
+    }
+  ],
+  "total_years_experience": 4.7,
+  "has_career_gap": false
+}

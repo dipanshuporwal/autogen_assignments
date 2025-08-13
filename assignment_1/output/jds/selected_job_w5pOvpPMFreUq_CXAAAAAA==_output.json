@@ -1,0 +1,62 @@
+{
+  "job_title": "Data Scientist",
+  "responsibilities": [
+    "Play a key role on project teams that tackle real-world challenges for top-tier financial institutions and fintechs.",
+    "Transform messy, complex data into clear, actionable insights using a mix of advanced analytics, machine learning, and business strategy.",
+    "Develop custom algorithms and build end-to-end machine learning pipelines.",
+    "Help clients make more informed credit decisions and drive measurable results.",
+    "Collaborate closely with other talented data scientists and business analysts, blending technical skills with creative problem-solving and business acumen.",
+    "Learn how to communicate findings clearly and persuasively to both technical and non-technical audiences."
+  ],
+  "required_skills": [
+    "Strong foundation in statistical concepts and working knowledge of machine learning techniques.",
+    "Experience working with real-world data, with the ability to extract meaningful insights from messy datasets.",
+    "Proficiency in Python for coding, analyzing, and visualizing data.",
+    "Interest in solving business problems and understanding the data context and goals.",
+    "Pursuing a degree in data science, mathematics, statistics, engineering, or a related discipline."
+  ],
+  "preferred_skills": [
+    "Prior experience in fast-paced, analytics-driven environments such as internships, research, or intensive coursework.",
+    "Confidence in building models from scratch.",
+    "Strong communication skills to translate technical findings into business-relevant insights for diverse audiences."
+  ],
+  "education_requirements": "Undergraduate or graduate degree in data science, mathematics, statistics, engineering, or a related quantitative discipline.",
+  "experience_required": "Experience working with real-world data through coursework, research, or internships.",
+  "certifications": null,
+  "domain_keywords": [
+    "machine learning",
+    "analytics",
+    "credit and risk space",
+    "financial institutions",
+    "fintechs",
+    "statistics",
+    "python",
+    "data scientist",
+    "business strategy",
+    "data visualization",
+    "custom algorithms",
+    "data analysis"
+  ],
+  "matching_criteria": [
+    {
+      "skill": "Machine Learning and Advanced Analytics",
+      "weight": 5
+    },
+    {
+      "skill": "Python Proficiency",
+      "weight": 5
+    },
+    {
+      "skill": "Data Analysis and Insight Extraction",
+      "weight": 4
+    },
+    {
+      "skill": "Statistical Knowledge",
+      "weight": 4
+    },
+    {
+      "skill": "Team Collaboration and Project Contribution",
+      "weight": 3
+    }
+  ]
+}

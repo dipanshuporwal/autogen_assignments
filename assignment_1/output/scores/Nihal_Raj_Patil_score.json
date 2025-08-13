@@ -1,0 +1,19 @@
+{
+  "total_score": 87.0,
+  "score_breakdown": {
+    "skills": 29.0,
+    "experience": 22.0,
+    "education": 15.0,
+    "certifications": 0.0,
+    "communication": 10.0,
+    "presentation": 11.0
+  },
+  "feedback": [
+    "Excellent skill alignment with job requirements, particularly in Python, TensorFlow, PyTorch, and Transformer-based technologies.",
+    "Relevant experience developing AI-based solutions and leading projects involving complex healthcare and compliance applications.",
+    "Candidate has a strong academic background with MBA and B.Tech degrees aligning to the job requirements.",
+    "The resume could benefit from certifications in generative AI or machine learning to further strengthen alignment.",
+    "Language and Communication are exceptional with well-documented experience descriptions and summary.",
+    "Overall presentation is professional and clean, but could use more section-wise uniformity."
+  ]
+}

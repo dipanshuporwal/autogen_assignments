@@ -1,0 +1,47 @@
+Verified Job On Employer Career Site
+
+Job Summary:
+
+2nd Order Solutions is a niche consulting firm focused on delivering data-driven solutions in the credit and risk space. As a full-time data scientist, you'll tackle real-world challenges for financial institutions and fintechs, transforming complex data into actionable insights using advanced analytics and machine learning.
+
+Responsibilities:
+
+• Play a key role on project teams that tackle real-world challenges for top-tier financial institutions and fast-growing fintechs.
+
+• Transform messy, complex data into clear, actionable insights using a mix of advanced analytics, machine learning, and business strategy.
+
+• Develop custom algorithms and build end-to-end machine learning pipelines.
+
+• Help clients make more informed credit decisions and drive measurable results.
+
+• Collaborate closely with other talented data scientists and business analysts, blending technical skills with creative problem-solving and business acumen.
+
+• Learn how to communicate findings clearly and persuasively to both technical and non-technical audiences.
+
+Qualifications:
+
+Required:
+
+• You’re on track to graduate in Fall 2025 or Spring/Summer 2026.
+
+• You’re pursuing an undergraduate or graduate degree in a quantitative field such as data science, mathematics, statistics, engineering, or a related discipline.
+
+• You have a strong foundation in statistical concepts and a working knowledge of machine learning techniques.
+
+• You have experience working with real-world data, whether through coursework, research, or internships, and can extract meaningful insights from messy datasets.
+
+• You enjoy solving business problems just as much as building models and always seek to understand the 'why' behind the data.
+
+• You're proficient in Python (or R, though we prefer Python), and can efficiently code, analyze, and visualize data.
+
+Preferred:
+
+• Prior experience in fast-paced, analytics-driven environments, such as internships, research, or intensive coursework.
+
+• Confidence in building models from the ground up, rather than relying solely on existing templates or notebooks.
+
+• Strong communication skills, with the ability to translate technical findings into business-relevant insights for diverse audiences.
+
+Company:
+
+2nd Order Solutions is a consulting firm that specializes in credit strategies for small lending startups to top banks for its clients. Founded in 2008, the company is headquartered in Glen Allen, Virginia, USA, with a team of 11-50 employees. The company is currently Early Stage. 2nd Order Solutions has a track record of offering H1B sponsorships.

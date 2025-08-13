@@ -1,0 +1,68 @@
+{
+  "job_title": "Lead AI Engineer",
+  "responsibilities": [
+    "Design and implement modular AI agents using LLMs for workflow automation.",
+    "Deploy AI workflows and services in cloud environments ensuring scalability and efficiency.",
+    "Build multi-agent systems using frameworks supporting context-aware reasoning.",
+    "Optimize RAG pipelines with vector databases for semantic search.",
+    "Fine-tune LLMs with frameworks such as Hugging Face Transformers.",
+    "Integrate knowledge graphs into pipelines for relationship modeling.",
+    "Implement caching strategies for improved latency and consistency.",
+    "Develop scalable backend systems and prototype UIs for testing.",
+    "Monitor and evaluate model and agent performance.",
+    "Collaborate with architects and product managers for scalable AI systems.",
+    "Stay abreast with cloud platforms, frameworks, and AI/ML technologies."
+  ],
+  "required_skills": [
+    "Python development for API creation and integration.",
+    "Experience with LLM APIs and agent frameworks.",
+    "Proficiency in deploying AI applications using Docker and cloud platforms.",
+    "Hands-on expertise with RAG pipelines and vector databases.",
+    "LLM fine-tuning using frameworks and tools like PyTorch.",
+    "Knowledge in graph databases and schema design.",
+    "Basic frontend prototyping with tools like Streamlit.",
+    "Understanding of MLOps practices, containerization, and CI/CD workflows.",
+    "Experience in cloud deployment (Azure preferred).",
+    "Caching and semantic optimization techniques."
+  ],
+  "preferred_skills": [
+    "Experience in agent-based systems or applied NLP workflows.",
+    "Analytical, problem-solving, and communication abilities.",
+    "Background in innovation labs or consulting firms."
+  ],
+  "education_requirements": "Bachelor's in Technology (B.Tech) or MCA; MS preferred.",
+  "experience_required": "7\u201310 years in AI/ML, with 2 years focused on LLMs or related technologies.",
+  "certifications": null,
+  "domain_keywords": [
+    "AI",
+    "Machine Learning",
+    "LLMs",
+    "RAG pipelines",
+    "Graph databases",
+    "Cloud deployment",
+    "Semantic caching",
+    "MLOps practices"
+  ],
+  "matching_criteria": [
+    {
+      "skill": "Python development",
+      "weight": 5
+    },
+    {
+      "skill": "LLM APIs and frameworks",
+      "weight": 4
+    },
+    {
+      "skill": "AI application deployment skills",
+      "weight": 4
+    },
+    {
+      "skill": "RAG pipelines expertise",
+      "weight": 3
+    },
+    {
+      "skill": "Knowledge graph integration",
+      "weight": 3
+    }
+  ]
+}

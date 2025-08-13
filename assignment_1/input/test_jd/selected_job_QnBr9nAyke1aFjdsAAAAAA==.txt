@@ -1,0 +1,91 @@
+Please use Google Chrome or Mozilla Firefox when accessing Candidate Home.
+
+By joining the American Red Cross you will touch millions of lives every year and experience the greatness of the human spirit at its best. Are you ready to be part of the world's largest humanitarian network?
+
+Join us—Where your Career is a Force for Good!
+
+Job Description:
+
+The American Red Cross is hiring for two Data Scientists- Generative AI
+
+WHY CHOOSE US?
+Joining The American Red Cross is like nothing else – it’s as much something you feel as something you do. You become a vital part of the world’s largest humanitarian network. Joining a team of welcoming individuals who are exceptional, yet unassuming. Diverse, yet uncompromising in unity. You grow your career within a movement that matters, where success is measured in people helped, communities made whole, and individuals equipped to never stop changing lives and situations for the better.
+
+When you choose to be a force for good, you’ll have mentors who empower your growth along a purposeful career path. You align your life’s work with an ongoing mission that’s bigger than all of us. As you care for others, you’re cared for with competitive compensation and benefits. You join a community that respects who you are away from work as much as what you do while at work.
+
+WHAT YOU NEED TO KNOW ABOUT THE JOB:
+The Enterprise Data and Analytics (EDA) group supports almost every line of business at the American Red Cross. In the EDA Data Science group, we use Red Cross data to create modern, impact-focused data science products.
+
+As a Data Scientist focused on generative AI in the EDA Data Sciences group, you’ll be responsible for supporting the organization’s generative AI needs within a highly complex data environment. You’ll provide business value through developing and maintaining new generative AI solutions, building generative AI workflows, working with infrastructure teams to implement those solutions in our cloud environments, and collaborating frequently with business stakeholders. You’ll apply specialized technical expertise to execute projects of high complexity, scope, size and/or risk that support business needs across the organization. The successful candidate will have a strong background in both generative AI development and off-the-shelf generative AI products. This position may serve as a lead on projects and will assist in identifying new business needs and providing training and guidance on generative AI topics to other staff.
+
+The work location for this position is 100% virtual/work from home. While the position can be worked from anywhere in the United States, the preferred work hours are on an East Coast schedule.
+
+WHERE YOUR CAREER IS A FORCE FOR GOOD (Key Responsibilities):
+• Design, develop, and maintain generative AI solutions to support enterprise use cases.
+• Collaborate with other data scientists, engineers, and product teams to integrate generative AI solutions into business applications.
+• Monitor the performance of generative AI tools. Contribute to documentation, code reviews, and knowledge sharing with other Red Cross Data Science teams and stakeholders across the enterprise.
+• Collaborate with the AI literacy team to provide generative AI training and guidance to other staff.
+
+Scope: Individual contributor that works under limited supervision. Apply subject matter knowledge. Capacity to understand specific needs or requirements to apply skills/knowledge.
+
+Note: Qualified candidates must be authorized to work in the United States. The American Red Cross does not sponsor employment visas.
+
+WHAT YOU NEED TO SUCCEED (required/minimum qualifications):
+Education: Bachelor’s degree in computer science, data science, quantitative social science, or a related field.
+
+Experience: Minimum 5 years of related experience in machine learning or data science, with at least 1 year working directly on generative AI projects.
+
+Skills & Abilities:
+• Solid working knowledge of generative AI techniques and tools, with hands-on experience developing and deploying generative AI tools in production environments.
+• The ideal candidate will demonstrate strong technical proficiency, a collaborative mindset, and the ability to translate complex AI concepts into practical business solutions.
+• Expert-level proficiency in Python
+• Solid understanding of transformer architectures, LLMs, and generative model training or fine-tuning
+• Expertise in evaluating performance, security, and bias for generative AI tools
+• Strong foundation in prompt engineering best practices, retrieval-augmented generation (RAG), and vector databases Ability to develop and troubleshoot analytics workflows within complex data ecosystems
+• Proficiency with general database concepts and SQL
+• Excellent verbal and written communication skills and the ability to articulate analytical insights/complex findings in a clear and concise manner
+• Experience using containers with continuous integration and deployment (CICD) technologies
+• Experience working in an Agile environment preferred
+
+-
+Physical Requirements
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. While performing the duties of this Job, the employee is regularly required to sit; use hands to handle or feel; and talk or hear. The employee is frequently required to reach with hands and arms. The employee is occasionally required to stand; walk and stoop, kneel, crouch, or crawl. The employee must frequently lift and/or move up to 15 pounds and occasionally lift and/or move up to 30 pounds. Specific vision abilities required by this job include close vision, distance vision, color vision, peripheral vision, depth perception and ability to adjust focus. The work environment will consist of moderate noise (i.e. business office with computers, phones and printers, light traffic). The employee must have the ability to work in a small cubicle and have the ability to sit at a computer terminal for an extended period of time.
+
+DISCLAIMER: The above statements are intended to describe the general nature and level of work being performed by individuals assigned to this position. They are not intended to be construed as an exhaustive list of responsibilities, duties and skills required of personnel so classified.
+
++++++++++++++++++++++++++++++
+PAY INFORMATION:
+The annual salary range for this position is $115K - $125K. We do not offer an annual bonus for this role.
+
+Note that American Red Cross salaries are aligned to the specific geographic location in which the work is primarily performed. Other factors that may be used to determine your actual salary may include your specific skills, how many years of experience you have and comparison to other employees already in this role. **We will review specific salary information at the time of phone screening based upon your location & experience.**
+
+This job will be posted for a minimum of five business days and extended if the applicant pool needs to be expanded.
+
+BENEFITS FOR YOU:
+As a mission-based organization, we believe our team needs great support to do great work. Our comprehensive package includes:
+• Medical, Dental Vision plans
+• Health Spending Accounts & Flexible Spending Accounts
+• PTO: Starting at 19 days a year; based on type of job and tenure
+• Holidays: 11 paid holidays comprised of six core holidays and five floating holidays
+• 401K with up to 6% match
+• Paid Family Leave
+• Employee Assistance
+• Disability and Insurance: Short + Long Term
+• Service Awards and recognition
+• LI-EH1
+
+IND123
+
+Apply now! Joining our team will provide you with the opportunity to
+
+make your career a force for good!
+
+The American Red Cross is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected veteran status, age, or any other characteristic protected by law.
+
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with the Los Angeles County Fair Chance Ordinance for Employers, San Diego Fair Chance Ordinance, the California Fair Chance Act and any other applicable state and local laws.
+
+AmeriCorps, the federal agency that brings people together through service, and its partners — the Peace Corps, AmeriCorps Alums, National Peace Corps Association, and the Service Year Alliance — launched Employers of National Service to connect national service alumni with opportunities in the workforce. American Red Cross is proud to be an EONS partner and share our employment opportunities with the network of organizations.
+
+Interested in Volunteering? Visit redcross.org/volunteertoday to learn more, including our most-needed volunteer positions.
+
+To view the EEOC Summary of Rights, click here: Summary of Rights

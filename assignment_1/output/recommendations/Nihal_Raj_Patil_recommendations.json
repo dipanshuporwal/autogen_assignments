@@ -1,0 +1,25 @@
+{
+  "overall_score": 85.0,
+  "recommendations": [
+    {
+      "section": "Summary",
+      "suggestion": "Include a mention of generative AI experience in your summary to emphasize alignment with the job requirements.",
+      "reason": "The job emphasizes expertise in generative AI, and including this in the summary can make this alignment clear upfront."
+    },
+    {
+      "section": "Skills",
+      "suggestion": "Add SQL and CICD to the skills section if experienced, to align with the job's technical skill requirements.",
+      "reason": "SQL and CICD are specifically mentioned in the job description as required skills."
+    },
+    {
+      "section": "Experience",
+      "suggestion": "Highlight specific contributions in projects involving generative AI models such as LLMs or transformers in your most recent roles.",
+      "reason": "The job seeks a detailed demonstration of hands-on experience with generative AI tools, which should be clearly articulated in the experience section."
+    },
+    {
+      "section": "Projects",
+      "suggestion": "Add more details about achievements and improvements delivered for each project, especially focusing on results tied to generative AI solutions.",
+      "reason": "Specific outcomes and contributions to generative AI performance would showcase impact and relevance to the role."
+    }
+  ]
+}

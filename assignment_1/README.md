@@ -37,6 +37,7 @@ The backend pipeline is composed of modular, asynchronous agents:
 ---
 
 ## 🏗️ Project Structure
+<pre> ```bash
 ├── agents/
 │   ├── resume_processor.py                # Agent to parse and extract key information from resumes
 │   ├── jd_analyzer.py                     # Agent to analyze job descriptions and extract structured data
@@ -106,6 +107,7 @@ The backend pipeline is composed of modular, asynchronous agents:
 ├── .gitignore                             # Files and folders to exclude from Git tracking
 ├── .env.example                           # Example environment variable file for setup
 └── README.md                              # Project documentation (you're reading it!)
+``` </pre>
 
 
 ---
@@ -114,6 +116,9 @@ The backend pipeline is composed of modular, asynchronous agents:
 ## 🧠 System Architecture
 
 ![alt text](image.png)
+
+
+---
 
 
 ## ⚙️ Setup Instructions
@@ -141,6 +146,9 @@ mongod --port 27020 --dbpath ~/mongo-data
 streamlit run streamlit_app.py
 
 
+---
+
+
 ## 🧪 How It Works
 ### 🧩 The Pipeline Workflow:
 - Upload Resumes & JD via sidebar or use job board.
@@ -158,6 +166,9 @@ streamlit run streamlit_app.py
 - Suggest job listings based on extracted skills.
 
 
+---
+
+
 ### 🛠️ Developer Notes
 - All agents are modular and async.
 
@@ -172,6 +183,9 @@ streamlit run streamlit_app.py
 - Clean Streamlit UI with custom CSS.
 
 
+---
+
+
 ### 💾 Output Structure
 - output/resumes/: Extracted structured resume data
 
@@ -184,6 +198,9 @@ streamlit run streamlit_app.py
 - output/visualizations/: Generated chart JSON data
 
 - output/combined_data.json: Combined result summary
+
+
+---
 
 
 ## 🧪 Tech Stack
@@ -212,6 +229,9 @@ streamlit run streamlit_app.py
 | **autogen-ext[docker]**              | Enables Docker support for agent execution in sandboxed environments    |
 | **autogen-ext[openai,azure]**        | Adds OpenAI and Azure OpenAI provider support                          |
 | **pydantic[email]**                  | Pydantic models with email type validation (used in profile/contact handling) |
+
+
+---
 
 
 ### 👨‍💻 Author

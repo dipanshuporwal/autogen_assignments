@@ -1,0 +1,30 @@
+{
+  "overall_score": 85.0,
+  "recommendations": [
+    {
+      "section": "Summary",
+      "suggestion": "Highlight specific experience related to deploying AI workflows and creating scalable backend services.",
+      "reason": "The job emphasizes responsibilities like designing modular workflows, backend services, and AI agents, which were only briefly mentioned in the summary."
+    },
+    {
+      "section": "Skills",
+      "suggestion": "Add skills such as knowledge graph integrations and familiarity with semantic caching.",
+      "reason": "These skills are explicitly mentioned in the job requirements but are not present in the candidate's skill list."
+    },
+    {
+      "section": "Certifications",
+      "suggestion": "Include certifications or training related to PyTorch or domain-specific deployment strategies.",
+      "reason": "The role requires fine-tuning LLMs using tools like PyTorch, which is not covered in the listed certifications."
+    },
+    {
+      "section": "Experience",
+      "suggestion": "Expand on cloud deployment experience in specific platforms like Azure, AWS, or GCP.",
+      "reason": "The job description prioritizes cloud deployment skills in these environments, which is not prominently detailed in the candidate's experience."
+    },
+    {
+      "section": "Skills",
+      "suggestion": "Add frontend prototyping tools like Streamlit or Gradio.",
+      "reason": "Frontend prototyping is a preferred skill in the job description and not listed in the resume."
+    }
+  ]
+}

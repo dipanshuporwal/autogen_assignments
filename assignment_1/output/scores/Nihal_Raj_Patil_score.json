@@ -1,0 +1,27 @@
+{
+  "total_score": 68.0,
+  "score_breakdown": {
+    "skills": {
+      "Python": 5.0,
+      "LLM APIs knowledge": 3.0,
+      "Cloud deployment expertise (Azure preferred)": 4.0,
+      "RAG pipelines development": 3.0,
+      "Knowledge graphs integration": 2.0,
+      "Frontend prototyping": 2.0,
+      "MLOps practices knowledge": 3.0
+    },
+    "experience": 19.0,
+    "education": 12.0,
+    "certifications": 5.0,
+    "communication": 8.0,
+    "presentation": 8.0
+  },
+  "feedback": [
+    "The applicant has a strong foundation in Python, TensorFlow, PyTorch, and AI tools, but lacks specific experience with LLM agent frameworks like LangGraph.",
+    "Items like RAG pipelines and vector databases are only partially covered by the resume.",
+    "The applicant demonstrates strong cloud and deployment skills through AWS experiences, yet lacks Azure-specific mentions.",
+    "Education aligns well, with degrees in relevant fields, though the job prefers higher years of experience.",
+    "Certifications are missing, which could strengthen the credentials further.",
+    "Overall, the candidate has compelling projects under their belt enhancing their practical utility."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "total_score": 84.0,
+  "score_breakdown": {
+    "skills": 25.0,
+    "experience": 22.0,
+    "education": 13.0,
+    "certifications": 0.0,
+    "communication": 8.0,
+    "presentation": 8.0
+  },
+  "feedback": [
+    "The candidate's skills align well with the requirements, especially in NLP and cloud computing.",
+    "Experience shows implementation ability in technical domains like AI and NLP.",
+    "Education meets the job requirements as they hold a B.Tech.",
+    "No certifications were provided, which could strengthen the application.",
+    "Language and formatting of the resume are clear and professional."
+  ]
+}

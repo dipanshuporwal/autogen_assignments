@@ -1,0 +1,30 @@
+{
+  "overall_score": 65.0,
+  "recommendations": [
+    {
+      "section": "Summary",
+      "suggestion": "Enhance the summary to highlight hands-on experience with LLMs, agent-based solutions, and cloud-based deployments.",
+      "reason": "The job description emphasizes expertise in LLMs, cloud deployment, and modular AI agent development."
+    },
+    {
+      "section": "Skills",
+      "suggestion": "Add specific skills related to LLM APIs, RAG pipelines, knowledge graphs, caching strategies, and MLOps practices.",
+      "reason": "The required skills include familiarity with LLM APIs, vector databases, knowledge graphs, and MLOps, which are not prominently mentioned in the resume."
+    },
+    {
+      "section": "Experience",
+      "suggestion": "Detail contributions towards AI systems integration, modular agent design, or LLM utilization during previous roles.",
+      "reason": "The job is heavily focused on building AI systems leveraging modular AI agents and LLM capabilities, but the resume experience is less specific in describing such projects."
+    },
+    {
+      "section": "Projects",
+      "suggestion": "Explicitly outline projects involving RAG pipelines, LLM fine-tuning, and vector databases.",
+      "reason": "These areas are critical to the job description and would strengthen alignment if framed clearly in the resume projects section."
+    },
+    {
+      "section": "Certifications",
+      "suggestion": "Consider obtaining certifications related to LLMs, cloud platforms such as AWS, or MLOps frameworks.",
+      "reason": "Certifications in these areas would demonstrate expertise, as the job places a premium on verified knowledge in modern AI practices."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "job_title": "Chatbot / AI Senior Developer",
+  "responsibilities": [
+    "Gather requirements from business and IT users.",
+    "Design, develop, and implement chatbot and voicebot agents using Azure cloud services and Genesys.",
+    "Interface and liaise with business partners and potentially external vendors.",
+    "Develop working application code for a cloud environment based on business functions and technical specifications.",
+    "Embed chatbots in multiple channels such as websites, SMS, email, Skype, and others."
+  ],
+  "required_skills": [
+    "Experience with Chatbot technologies (minimum 3 years).",
+    "Understanding of NLP and NLU concepts including Intent Classification and Entity Extraction.",
+    "Basic knowledge of Machine Learning concepts.",
+    "Development skills in NodeJS and REST services.",
+    "Experience with cloud platforms such as AWS, Azure, or Google Cloud.",
+    "Knowledge of software development phases including UI design, APIs, and microservices.",
+    "Hands-on experience with JavaScript frameworks such as NodeJS and ReactJS or VueJS.",
+    "Experience with databases including NoSQL (MongoDB).",
+    "Knowledge of analytics and visualization tools."
+  ],
+  "preferred_skills": [
+    "Experience with AI technologies like NLP, Speech to Text, and others.",
+    "Knowledge of AI platforms like IBM Watson and Microsoft Azure Cognitive Services.",
+    "Experience in a DevOps environment and with tools like Git and Jira.",
+    "Web UI and dashboard design experience."
+  ],
+  "education_requirements": "Bachelor's degree in Computer Science or related field, or equivalent experience.",
+  "experience_required": "Minimum 3 years of experience with Chatbot technologies and AI use case solutioning.",
+  "certifications": null,
+  "domain_keywords": [
+    "Chatbot",
+    "AI",
+    "Natural Language Processing",
+    "Machine Learning",
+    "Cloud Computing",
+    "Genesys"
+  ],
+  "matching_criteria": [
+    {
+      "skill": "Chatbot development expertise",
+      "weight": 5
+    },
+    {
+      "skill": "Experience with cloud services and storage",
+      "weight": 4
+    },
+    {
+      "skill": "NLP and NLU knowledge",
+      "weight": 5
+    }
+  ]
+}

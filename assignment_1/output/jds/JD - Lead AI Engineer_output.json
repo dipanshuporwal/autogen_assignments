@@ -1,0 +1,75 @@
+{
+  "job_title": "Lead AI Engineer",
+  "responsibilities": [
+    "Design and implement modular AI agents using large language models (LLMs) to automate and optimize workflows.",
+    "Deploy and maintain end-to-end AI workflows in cloud environments ensuring performance.",
+    "Build multi-agent systems and develop RAG pipelines using vector databases.",
+    "Fine-tune LLMs with frameworks and tools to create domain-adapted models.",
+    "Integrate knowledge graphs into agent pipelines.",
+    "Implement caching strategies using semantic caching to enhance performance.",
+    "Create scalable backend services and prototype user interfaces.",
+    "Monitor and evaluate performance using feedback loops and observability tools.",
+    "Collaborate with cross-functional teams to develop AI systems.",
+    "Stay updated on cloud platforms and AI/ML technologies."
+  ],
+  "required_skills": [
+    "Python development skills including API and service integration.",
+    "Experience with LLM APIs, agent frameworks, and prompt engineering.",
+    "Knowledge of deploying AI applications using Docker and cloud infrastructure.",
+    "RAG pipelines and vector databases skills.",
+    "Experience fine-tuning LLMs using PyTorch and related tools.",
+    "Familiarity with knowledge graphs and associated databases.",
+    "Frontend prototyping skills using tools like Streamlit or Gradio.",
+    "MLOps practices knowledge and CI/CD workflows.",
+    "Cloud deployment experience in Azure, AWS, or GCP.",
+    "Understanding of caching strategies and embedding-based similarity."
+  ],
+  "preferred_skills": [
+    "Knowledge of distributed training tools like DeepSpeed.",
+    "Front-end prototyping skills with frameworks.",
+    "Experience with Neo4j, AWS Neptune for knowledge graph.",
+    "Working knowledge of semantic caching tools."
+  ],
+  "education_requirements": "Bachelor\u2019s degree in Technology (B.Tech) or Master of Computer Applications (MCA); MS in similar field preferred.",
+  "experience_required": "7-10 years in AI/ML domain, with 2+ years on LLMs or applied NLP.",
+  "certifications": null,
+  "domain_keywords": [
+    "AI",
+    "ML",
+    "LLMs",
+    "RAG",
+    "vector databases",
+    "Pinecone",
+    "FAISS",
+    "PyTorch",
+    "Hugging Face Transformers",
+    "caching strategies",
+    "Docker",
+    "CI/CD",
+    "Neo4j AWA Neptune",
+    "Azure AWS GCP",
+    "agent frameworks"
+  ],
+  "matching_criteria": [
+    {
+      "skill": "Python development skills including API and service integration",
+      "weight": 5
+    },
+    {
+      "skill": "LLM APIs and agent frameworks experience",
+      "weight": 5
+    },
+    {
+      "skill": "Knowledge graphs and vector database expertise",
+      "weight": 4
+    },
+    {
+      "skill": "Cloud deployment experience",
+      "weight": 4
+    },
+    {
+      "skill": "Experience in building AI-powered applications",
+      "weight": 5
+    }
+  ]
+}

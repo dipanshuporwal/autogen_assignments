@@ -1,0 +1,56 @@
+{
+  "total_score": 73.0,
+  "score_breakdown": {
+    "skills": [
+      {
+        "name": "Python development skills",
+        "score": 5.0
+      },
+      {
+        "name": "Deployment experience with LLM APIs and frameworks",
+        "score": 4.0
+      },
+      {
+        "name": "Hands-on experience with cloud platforms and Docker",
+        "score": 3.5
+      },
+      {
+        "name": "Expertise with RAG pipelines and vector databases",
+        "score": 2.5
+      },
+      {
+        "name": "Fine-tuning LLMs using PyTorch or TensorFlow",
+        "score": 4.0
+      },
+      {
+        "name": "Knowledge of caching strategies",
+        "score": 2.0
+      },
+      {
+        "name": "Experience with knowledge graphs",
+        "score": 3.0
+      },
+      {
+        "name": "Basic frontend prototyping using Streamlit or Gradio",
+        "score": 2.5
+      },
+      {
+        "name": "Knowledge of MLOps tools and practices",
+        "score": 2.0
+      }
+    ],
+    "experience": 18.0,
+    "education": 12.0,
+    "certifications": 0.0,
+    "communication": 9.0,
+    "presentation": 8.0
+  },
+  "feedback": [
+    "Strong skill alignment in Python, LLM frameworks, and machine learning technologies.",
+    "Significant experience in AI/ML engineering roles, though slightly below the preferred range.",
+    "Good educational background with technical degrees at B.Tech and MBA levels.",
+    "No certifications provided, consider obtaining relevant AI-related certifications.",
+    "Excellent communication clarity and resume presentation.",
+    "Proven expertise in implementing ML solutions, though more depth in required tools would contribute better."
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "overall_score": 70.0,
+  "recommendations": [
+    {
+      "section": "Summary",
+      "suggestion": "Highlight leadership and advanced AI engineering experience explicitly.",
+      "reason": "The job requires a lead role; emphasizing leadership in AI will better position the candidate."
+    },
+    {
+      "section": "Experience",
+      "suggestion": "Detail any experience related to LLM deployment, RAG pipelines, and agent orchestration.",
+      "reason": "The job explicitly demands these experiences, which must be outlined in relevance."
+    },
+    {
+      "section": "Skills",
+      "suggestion": "Add skills like API crafting, integration, and working with knowledge graphs if applicable.",
+      "reason": "These are key competencies required in the job description."
+    },
+    {
+      "section": "Projects",
+      "suggestion": "Elaborate on projects involving cloud deployment or back-end integration capabilities.",
+      "reason": "Projects aligned with the role's responsibilities will enhance credibility."
+    }
+  ]
+}

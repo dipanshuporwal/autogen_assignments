@@ -1,0 +1,27 @@
+{
+  "total_score": 82.0,
+  "score_breakdown": {
+    "skills": {
+      "Python Programming": 9.0,
+      "Cloud Infrastructure Deployment": 6.0,
+      "Experience with RAG Pipelines": 7.0,
+      "Fine-tuning LLMs": 9.0,
+      "Knowledge Graph Integration": 7.0,
+      "Caching Strategies Implementation": 7.0,
+      "Frontend Prototyping": 4.0,
+      "MLOps Practices": 5.0,
+      "Collaboration Skills": 5.0
+    },
+    "experience": 22.0,
+    "education": 12.0,
+    "certifications": 0.0,
+    "communication": 9.0,
+    "presentation": 8.0
+  },
+  "feedback": [
+    "The candidate has strong proficiency in Python and relevant frameworks for the job.",
+    "Experience with tasks related to healthcare compliance and machine learning aligns with job requirements.",
+    "Education aligns well, though certifications specific to AI/ML or LLM technologies are missing.",
+    "Resume could expand on collaboration experiences and specific achievements in relevant roles."
+  ]
+}

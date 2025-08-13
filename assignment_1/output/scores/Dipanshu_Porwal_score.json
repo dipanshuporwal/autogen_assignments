@@ -1,0 +1,24 @@
+{
+  "total_score": 83.0,
+  "score_breakdown": {
+    "skills": {
+      "Python development skills including API and service integration": 5.0,
+      "LLM APIs and agent frameworks experience": 5.0,
+      "Knowledge graphs and vector database expertise": 4.0,
+      "Cloud deployment experience": 4.0,
+      "Experience in building AI-powered applications": 5.0
+    },
+    "experience": 23.0,
+    "education": 14.0,
+    "certifications": 8.0,
+    "communication": 8.0,
+    "presentation": 8.0
+  },
+  "feedback": [
+    "The candidate demonstrates excellent alignment in required skills, with notable proficiency in Python, agent frameworks, cloud deployment, and vector databases.",
+    "Experience in AI development over 8 years with roles focused on LLMs, conversational AI, and generative models aligns well with the job's requirements.",
+    "Education in Computer Science matches the qualification requirements; the candidate holds a B.Tech.",
+    "Certifications such as Microsoft Azure Fundamentals and IBM Watson enhance the profile's credibility in the relevant technologies.",
+    "The resume's summary is clear and concise, effectively presenting the candidate's qualifications without unnecessary embellishments."
+  ]
+}

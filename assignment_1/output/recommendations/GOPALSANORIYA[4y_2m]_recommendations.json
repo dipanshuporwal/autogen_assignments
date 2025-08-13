@@ -1,0 +1,30 @@
+{
+  "overall_score": 70.0,
+  "recommendations": [
+    {
+      "section": "Experience",
+      "suggestion": "Explicitly highlight experience with Python API development and service integration.",
+      "reason": "The role requires strong Python skills for API development, which should be clearly demonstrated in the experience section."
+    },
+    {
+      "section": "Skills",
+      "suggestion": "Add skills related to RAG pipelines, vector databases like Pinecone or FAISS, and frameworks such as FastAPI.",
+      "reason": "These specific technical skills are directly mentioned as required in the job description but are not explicitly listed in the resume."
+    },
+    {
+      "section": "Experience",
+      "suggestion": "Detail experience with fine-tuning LLMs using frameworks like Hugging Face Transformers or LoRA.",
+      "reason": "The job requires fine-tuning LLMs, and emphasizing this can strengthen alignment with the qualifications."
+    },
+    {
+      "section": "Skills",
+      "suggestion": "Include familiarity with MLOps practices, Docker, Git, and CI/CD workflows.",
+      "reason": "These are additional technical proficiencies required in the job that can increase the technical suitability of the candidate."
+    },
+    {
+      "section": "Summary",
+      "suggestion": "Include a summary section that emphasizes nearly 5 years of experience in NLP, LLMs, and Conversational AI with comprehensive cloud deployment knowledge.",
+      "reason": "A summary could strengthen the initial impression and emphasize the candidate's alignment with key job aspects."
+    }
+  ]
+}

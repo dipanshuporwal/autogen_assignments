@@ -1,0 +1,24 @@
+{
+  "total_score": 74.0,
+  "score_breakdown": {
+    "skills": {
+      "Python development skills including API and service integration": 4.8,
+      "LLM APIs and agent frameworks experience": 4.5,
+      "Knowledge graphs and vector database expertise": 3.2,
+      "Cloud deployment experience": 3.8,
+      "Experience in building AI-powered applications": 4.6
+    },
+    "experience": 21.0,
+    "education": 15.0,
+    "certifications": 0.0,
+    "communication": 8.0,
+    "presentation": 8.0
+  },
+  "feedback": [
+    "Candidate demonstrates excellent Python development skills and familiarity with service integration.",
+    "Experience with deploying applications in cloud environments (e.g., AWS) is evident but specialized Azure and GCP understanding is not explicitly mentioned.",
+    "Familiarity with toolsets like PyTorch and Transformers aligns well with requirements for LLM fine-tuning.",
+    "Experience duration is slightly below the job description's requirements but shows competence in relevant roles.",
+    "Overall, the resume provides a good alignment with the job description; more explicit certifications and formal experience alignment are areas for improvement."
+  ]
+}

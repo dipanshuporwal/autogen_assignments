@@ -1,0 +1,133 @@
+{
+  "name": "Dipanshu Porwal",
+  "email": "dipanshunitj@gmail.com",
+  "phone": "8727930718",
+  "summary": "Sr. AI and Python developer with 8 years of experience in the Manufacturing, Healthcare and Banking domains. Proven expertise in designing, modelling, implementing, testing and deploying scalable BOTs and Voice Assistants leveraging Agentic AI architectures, Gen AI frameworks, LLMs, prompt engineering, and NLP techniques. Seeking a similar role and position in a progressive organization where I can continue to drive innovation and AI-powered transformation.",
+  "skills": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "Node.js",
+    "React.js",
+    "MySQL",
+    "MongoDB",
+    "Qdrant",
+    "Weaviate",
+    "Data Structures",
+    "Algorithms",
+    "Microsoft Power BI",
+    "NumPy",
+    "Pandas",
+    "TensorFlow",
+    "Scikit-learn",
+    "OpenAI APIs",
+    "LLM models",
+    "LangChain",
+    "LangGraph",
+    "LangSmith",
+    "LangServe",
+    "NLP techniques",
+    "Avaamo",
+    "Kore.ai",
+    "IBM Watson",
+    "Google Dialogflow",
+    "Amelia",
+    "CAIP",
+    "Microsoft Bot Framework",
+    "RASA framework",
+    "Machine Learning",
+    "Logistic Regression",
+    "SVM",
+    "Decision Trees",
+    "Random Forest",
+    "Microservices",
+    "Restful APIs",
+    "Git",
+    "Jira",
+    "Azure DevOps",
+    "Docker",
+    "OpenShift Red Hat"
+  ],
+  "languages": null,
+  "experience": [
+    {
+      "job_title": "Senior AI Developer",
+      "company": "Wurth IT",
+      "start_date": "2023-11",
+      "end_date": "Present",
+      "duration_in_months": null,
+      "description": "Designed and developed a production-grade hierarchical, multi-agent framework using LLMs. Validated function parameters in real-time and employed conversational memory. Architected intelligent voice assistant leveraging generative AI technologies. Led cross-functional teams, managed tasks, and ensured scalable deployment.",
+      "is_career_gap": false
+    },
+    {
+      "job_title": "AI Engineering Senior Analyst",
+      "company": "Accenture",
+      "start_date": "2021-11",
+      "end_date": "2023-10",
+      "duration_in_months": 23,
+      "description": "Implemented LLM-based bots for API and workflow automation. Built conversational bots and automated URL management processes, improving efficiency and user collaboration. Delivered customer-centric analytics dashboards and modular QnA components.",
+      "is_career_gap": false
+    },
+    {
+      "job_title": "Senior Software Engineer",
+      "company": "Wipro Digital",
+      "start_date": "2021-06",
+      "end_date": "2021-10",
+      "duration_in_months": 5,
+      "description": "Developed and integrated various conversational bots for service catalogs, license reactivation, and document-based assistance using IBM Watson services and Python.",
+      "is_career_gap": false
+    },
+    {
+      "job_title": "Project Engineer",
+      "company": "Wipro Digital",
+      "start_date": "2017-08",
+      "end_date": "2021-05",
+      "duration_in_months": 45,
+      "description": "Coordinated with customers to address requirements, provided regular demos, and implemented feedback in bot solutions multiple client domains.",
+      "is_career_gap": false
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Computer Science and Engineering",
+      "institution": "NIT Jalandhar",
+      "graduation_year": "2017",
+      "grade": "7.41"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AI Agent Fundamentals",
+      "issuer": "HuggingFace",
+      "date_issued": null
+    },
+    {
+      "name": "Building Al Agents & Agentic Al System via Microsoft Autogen",
+      "issuer": "Udemy",
+      "date_issued": null
+    },
+    {
+      "name": "Machine Learning A-Z\u2122 \u2013 Hands-On Python for Data Science",
+      "issuer": "Udemy",
+      "date_issued": null
+    },
+    {
+      "name": "Certified in IBM Watson \u2013 Versions V3.1 & V4",
+      "issuer": "IBM",
+      "date_issued": null
+    },
+    {
+      "name": "Microsoft Azure Fundamentals",
+      "issuer": "Microsoft",
+      "date_issued": null
+    },
+    {
+      "name": "CAIP \u2013 Accenture's Conversational AI Development Tool",
+      "issuer": "Accenture",
+      "date_issued": null
+    }
+  ],
+  "projects": null,
+  "total_years_experience": 8.0,
+  "has_career_gap": false
+}

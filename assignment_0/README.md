@@ -129,12 +129,14 @@ In Q2, Product A led in both units (1200) and revenue ($12K), followed by B and 
 ---
 
 ##  📁 Project Structure
-- ├── your_script.py           # Main script with agent setup and orchestration
-- ├── config/
-- │   └── constants.py         # Model config
-- ├── .env                     # Azure OpenAI credentials (not committed)
-- ├── requirements.txt
-- └── README.md
+<pre>
+├── your_script.py           # Main script with agent setup and orchestration
+├── config/
+│   └── constants.py         # Model config
+├── .env                     # Azure OpenAI credentials (not committed)
+├── requirements.txt
+└── README.md
+</pre>
 
 ---
 

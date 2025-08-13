@@ -123,27 +123,34 @@ The backend pipeline is composed of modular, asynchronous agents:
 
 ## ⚙️ Setup Instructions
 
-### 1. Clone the repository
+### 1️⃣ Clone the repository
 
-git clone https://github.com/yourusername/ats-resume-scoring-app.git
-cd ats-resume-scoring-app
+- git clone https://github.com/dipanshuporwal/autogen_assignments.git
+- cd autogen_assignments
 
 
-### 2. Install dependencies
+### 2️⃣ Create a virtual environment (Python 3.9+)
+
+- python3 -m venv .venv
+- source .venv/bin/activate    # For macOS/Linux
+- .venv\Scripts\activate       # For Windows
+
+
+### 3️⃣ Install dependencies
 
 pip install -r requirements.txt
 
-**Ensure you have Python 3.9+ installed.**
+
+### 4️⃣ Run the MongoDB server
+
+- cd assignment_1_ATS_resume_scoring_system/mongodb
+- mongod --port 27020 --dbpath ~/mongo-data
 
 
-### 3. Run the MongoDB server
+### 5️⃣ Start the Streamlit app
 
-mongod --port 27020 --dbpath ~/mongo-data
-
-
-### 4. Start the Streamlit app
-
-streamlit run streamlit_app.py
+- cd ats-resume-assignment_1_ATS_resume_scoring_system-app
+- streamlit run streamlit_app.py
 
 
 ---
